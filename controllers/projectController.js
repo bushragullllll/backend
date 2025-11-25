@@ -1,5 +1,5 @@
 // backend/controllers/projectController.js
-import Project from "../models/projectModel.js";
+import Project from "../models/Project.js";
 import { getIO } from "../socket.js";
 
 // CREATE PROJECT
