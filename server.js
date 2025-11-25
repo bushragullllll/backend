@@ -21,7 +21,7 @@ const __dirname = path.dirname(__filename);
 
 const app = express();
 app.use(cors({
-  origin: "http://localhost:5173",
+  origin:  "http://localhost:5173",// "https://project-manager-frontend-liard.vercel.app" ,
   credentials: true,
 }));
 app.use(express.json());
@@ -32,7 +32,17 @@ if (!fs.existsSync(logsDir)) fs.mkdirSync(logsDir);
 
 const accessLogStream = fs.createWriteStream(path.join(logsDir, 'access.log'), { flags: 'a' });
 app.use(morgan('combined', { stream: accessLogStream }));
-app.use("/uploads", express.static(path.join(process.cwd(), "uploads")));
+
+
+
+// Create uploads folder if not exists
+const uploadPath = path.join(process.cwd(), "uploads");
+if (!fs.existsSync(uploadPath)) {
+  fs.mkdirSync(uploadPath, { recursive: true });
+}
+
+// Serve static files
+app.use("/uploads", express.static(uploadPath));
 
 // ------------------------------
 //  SOCKET.IO SETUP
@@ -46,7 +56,7 @@ const server = http.createServer(app);
 const io = initSocket(
   new Server(server, {
     cors: {
-      origin: "http://localhost:5173",
+      origin:"http://localhost:5173", //"https://project-manager-frontend-liard.vercel.app", 
       methods: ["GET", "POST", "PUT", "DELETE"],
     },
   })
@@ -75,6 +85,7 @@ app.use("/api/projects", projectRoutes);
 const connectDB = async () => {
   try {
     await mongoose.connect(process.env.MONGO_URI);
+    console.log("MONGO_URI:", process.env.MONGO_URI);
     logger.info('✅ MongoDB connected successfully');
   } catch (error) {
     logger.error(`❌ MongoDB connection failed: ${error.message}`);
