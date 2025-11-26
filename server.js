@@ -8,7 +8,6 @@ import dotenv from 'dotenv';
 import { fileURLToPath } from 'url';
 
 import taskRoutes from "./routes/taskRoutes.js";
-
 import projectRoutes from "./routes/projectRoutes.js";
 import userRoutes from './routes/userRoutes.js';
 
@@ -20,10 +19,17 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const app = express();
+
+// ------------------------------
+//  CORS SETUP
+// ------------------------------
 app.use(cors({
-  origin: "http://localhost:5173",
+ origin: ["https://frontend-production-ff46.up.railway.app"], 
+ // Updated frontend URL
+   //origin: "http://localhost:5173", // old localhost URL (commented)
   credentials: true,
 }));
+
 app.use(express.json());
 
 // Logs folder
@@ -46,7 +52,9 @@ const server = http.createServer(app);
 const io = initSocket(
   new Server(server, {
     cors: {
-      origin: "http://localhost:5173",
+     origin: ["https://frontend-production-ff46.up.railway.app"], 
+ // Updated frontend URL
+     // origin: "http://localhost:5173", // old localhost URL (commented)
       methods: ["GET", "POST", "PUT", "DELETE"],
     },
   })
@@ -66,7 +74,6 @@ io.on("connection", (socket) => {
 // ------------------------------
 app.use('/api/users', userRoutes);
 app.use("/api/tasks", taskRoutes);
-
 app.use("/api/projects", projectRoutes);
 
 // ------------------------------
@@ -100,27 +107,22 @@ startServer();
 // ===================================================================
 // ------------------------------
 //   GRACEFUL SHUTDOWN
-// ------------------------------
 // ===================================================================
 const gracefulShutdown = async (signal) => {
   console.log(`\n⚠️ Received ${signal} — starting graceful shutdown...`);
 
   try {
-    // 1️⃣ Stop accepting new HTTP requests
     server.close(() => {
       console.log("🛑 HTTP server closed.");
     });
 
-    // 2️⃣ Close all Socket.IO connections
     io.close(() => {
       console.log("🔌 Socket.IO connections closed.");
     });
 
-    // 3️⃣ Close MongoDB connection safely
     await mongoose.connection.close(false);
     console.log("📦 MongoDB connection closed.");
 
-    // 4️⃣ Exit
     console.log("✅ Graceful shutdown completed.");
     process.exit(0);
 
@@ -130,7 +132,5 @@ const gracefulShutdown = async (signal) => {
   }
 };
 
-// Handle shutdown signals
 process.on("SIGINT", () => gracefulShutdown("SIGINT"));   // CTRL + C
 process.on("SIGTERM", () => gracefulShutdown("SIGTERM")); // PM2 / Render / Docker
-
