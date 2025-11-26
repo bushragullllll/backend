@@ -21,7 +21,7 @@ const __dirname = path.dirname(__filename);
 
 const app = express();
 app.use(cors({
-  origin:  "http://localhost:5173",// "https://project-manager-frontend-liard.vercel.app" ,
+  origin: "http://localhost:5173",
   credentials: true,
 }));
 app.use(express.json());
@@ -32,17 +32,7 @@ if (!fs.existsSync(logsDir)) fs.mkdirSync(logsDir);
 
 const accessLogStream = fs.createWriteStream(path.join(logsDir, 'access.log'), { flags: 'a' });
 app.use(morgan('combined', { stream: accessLogStream }));
-
-
-
-// Create uploads folder if not exists
-const uploadPath = path.join(process.cwd(), "uploads");
-if (!fs.existsSync(uploadPath)) {
-  fs.mkdirSync(uploadPath, { recursive: true });
-}
-
-// Serve static files
-app.use("/uploads", express.static(uploadPath));
+app.use("/uploads", express.static(path.join(process.cwd(), "uploads")));
 
 // ------------------------------
 //  SOCKET.IO SETUP
@@ -56,7 +46,7 @@ const server = http.createServer(app);
 const io = initSocket(
   new Server(server, {
     cors: {
-      origin:"http://localhost:5173", 
+      origin: "http://localhost:5173",
       methods: ["GET", "POST", "PUT", "DELETE"],
     },
   })

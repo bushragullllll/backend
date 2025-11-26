@@ -1,0 +1,74 @@
+2025-11-11T13:17:39.420Z [[31merror[39m]: ❌ Login failed: user.matchPassword is not a function
+2025-11-11T13:17:44.320Z [[31merror[39m]: ❌ Login failed: user.matchPassword is not a function
+2025-11-11T13:17:56.453Z [[31merror[39m]: ❌ Login failed: user.matchPassword is not a function
+2025-11-11T13:18:41.045Z [[31merror[39m]: ❌ Login failed: Operation `taskprojects.findOne()` buffering timed out after 10000ms
+2025-11-11T13:18:49.731Z [[31merror[39m]: ❌ Login failed: Operation `taskprojects.findOne()` buffering timed out after 10000ms
+2025-11-11T13:59:07.943Z [[31merror[39m]: ❌ MongoDB connection failed: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2025-11-11T14:01:33.207Z [[31merror[39m]: ❌ Login failed: Operation `taskprojects.findOne()` buffering timed out after 10000ms
+2025-11-11T15:35:06.397Z [[31merror[39m]: ❌ Login failed: getaddrinfo ENOTFOUND cluster0-shard-00-01.glb8k.mongodb.net
+2025-11-11T15:35:08.555Z [[31merror[39m]: ❌ Login failed: getaddrinfo ENOTFOUND cluster0-shard-00-01.glb8k.mongodb.net
+2025-11-11T15:35:11.141Z [[31merror[39m]: ❌ Login failed: getaddrinfo ENOTFOUND cluster0-shard-00-01.glb8k.mongodb.net
+2025-11-11T15:35:26.133Z [[31merror[39m]: ❌ Login failed: getaddrinfo ENOTFOUND cluster0-shard-00-01.glb8k.mongodb.net
+2025-11-11T15:35:34.972Z [[31merror[39m]: ❌ Login failed: getaddrinfo ENOTFOUND cluster0-shard-00-01.glb8k.mongodb.net
+2025-11-11T15:35:36.506Z [[31merror[39m]: ❌ Login failed: getaddrinfo ENOTFOUND cluster0-shard-00-01.glb8k.mongodb.net
+2025-11-11T15:35:36.510Z [[31merror[39m]: ❌ Login failed: getaddrinfo ENOTFOUND cluster0-shard-00-01.glb8k.mongodb.net
+2025-11-11T15:35:37.440Z [[31merror[39m]: ❌ Login failed: getaddrinfo ENOTFOUND cluster0-shard-00-01.glb8k.mongodb.net
+2025-11-11T15:35:37.773Z [[31merror[39m]: ❌ Login failed: getaddrinfo ENOTFOUND cluster0-shard-00-01.glb8k.mongodb.net
+2025-11-11T15:50:25.659Z [[31merror[39m]: ❌ Registration failed: Member validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T15:59:09.102Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T15:59:42.913Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:00:28.946Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:00:29.947Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:00:33.174Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:00:36.157Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:00:38.596Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:00:43.831Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:00:45.580Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:00:45.726Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:00:46.084Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:00:46.843Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:00:55.907Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:01:44.555Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:01:45.170Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:01:46.406Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:01:47.666Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:02:31.249Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:02:37.085Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:03:21.565Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:03:49.577Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:04:56.027Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Team Lead` is not a valid enum value for path `role`.
+2025-11-11T16:08:34.477Z [[31merror[39m]: ❌ Registration failed: Operation `taskprojects.findOne()` buffering timed out after 10000ms
+2025-11-11T16:09:05.992Z [[31merror[39m]: ❌ MongoDB connection failed: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2025-11-11T16:17:48.480Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Name is required
+2025-11-11T16:17:50.629Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Name is required
+2025-11-11T16:18:44.738Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Name is required
+2025-11-11T16:19:44.188Z [[31merror[39m]: ❌ Registration failed: connection 6 to 159.41.247.107:27017 timed out
+2025-11-11T16:19:44.321Z [[31merror[39m]: ❌ Registration failed: connection 6 to 159.41.247.107:27017 timed out
+2025-11-11T16:20:03.067Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Name is required
+2025-11-11T16:20:11.348Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Name is required
+2025-11-11T16:20:18.734Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Name is required
+2025-11-11T16:20:33.062Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Name is required
+2025-11-11T16:20:40.539Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Name is required
+2025-11-11T16:20:47.300Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Name is required
+2025-11-11T16:20:48.217Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Name is required
+2025-11-11T16:21:43.307Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Team Lead` is not a valid enum value for path `role`.
+2025-11-12T12:01:23.798Z [[31merror[39m]: ❌ Task creation failed: Task validation failed: project: Path `project` is required.
+2025-11-12T12:01:26.945Z [[31merror[39m]: ❌ Task creation failed: Task validation failed: project: Path `project` is required.
+2025-11-12T12:01:30.356Z [[31merror[39m]: ❌ Task creation failed: Task validation failed: project: Path `project` is required.
+2025-11-12T12:01:31.231Z [[31merror[39m]: ❌ Task creation failed: Task validation failed: project: Path `project` is required.
+2025-11-12T12:01:31.446Z [[31merror[39m]: ❌ Task creation failed: Task validation failed: project: Path `project` is required.
+2025-11-12T12:01:31.979Z [[31merror[39m]: ❌ Task creation failed: Task validation failed: project: Path `project` is required.
+2025-11-12T12:01:32.236Z [[31merror[39m]: ❌ Task creation failed: Task validation failed: project: Path `project` is required.
+2025-11-12T12:01:34.928Z [[31merror[39m]: ❌ Task creation failed: Task validation failed: project: Path `project` is required.
+2025-11-12T12:07:11.623Z [[31merror[39m]: ❌ Task creation failed: Task validation failed: project: Path `project` is required.
+2025-11-13T12:12:38.356Z [[31merror[39m]: ❌ Registration failed: E11000 duplicate key error collection: test.taskprojects index: email_1 dup key: { email: "dd@gmail.com" }
+2025-11-13T12:30:49.807Z [[31merror[39m]: ❌ Login failed: connection <monitor> to 159.41.247.107:27017 timed out
+2025-11-13T12:30:49.810Z [[31merror[39m]: ❌ Login failed: connection <monitor> to 159.41.247.107:27017 timed out
+2025-11-13T13:32:38.170Z [[31merror[39m]: ❌ MongoDB connection failed: querySrv ETIMEOUT _mongodb._tcp.cluster0.glb8k.mongodb.net
+2025-11-13T14:09:52.614Z [[31merror[39m]: ❌ Registration failed: Socket 'secureConnect' timed out after 34037ms (connectTimeoutMS: 30000)
+2025-11-13T14:09:59.668Z [[31merror[39m]: ❌ Registration failed: Socket 'secureConnect' timed out after 34037ms (connectTimeoutMS: 30000)
+2025-11-17T11:12:29.069Z [[31merror[39m]: ❌ Login failed: getaddrinfo ENOTFOUND cluster0-shard-00-01.glb8k.mongodb.net
+2025-11-17T11:12:29.691Z [[31merror[39m]: ❌ Login failed: getaddrinfo ENOTFOUND cluster0-shard-00-01.glb8k.mongodb.net
+2025-11-17T11:12:29.709Z [[31merror[39m]: ❌ Login failed: getaddrinfo ENOTFOUND cluster0-shard-00-01.glb8k.mongodb.net
+2025-11-24T09:03:46.637Z [[31merror[39m]: ❌ MongoDB connection failed: querySrv ECONNREFUSED _mongodb._tcp.cluster0.glb8k.mongodb.net
+2025-11-24T09:35:58.265Z [[31merror[39m]: ❌ MongoDB connection failed: querySrv EREFUSED _mongodb._tcp.cluster0.glb8k.mongodb.net

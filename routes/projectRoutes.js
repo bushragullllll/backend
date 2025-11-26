@@ -10,23 +10,7 @@ import {
 const router = express.Router();
 
 // ✅ Create new project with file
-router.post("/", async (req, res) => {
-  try {
-    const project = new Project(req.body);
-    await project.save();
-
-    io.emit("projectUpdated", {
-      action: "create",
-      project,
-    });
-
-    res.json(project);
-
-  } catch (err) {
-    res.status(500).json({ message: err.message });
-  }
-});
-
+router.post("/", upload.single("file"), createProject);
 
 // ✅ Get all projects
 router.get("/", getProjects);

@@ -1,0 +1,708 @@
+2025-11-11T11:50:54.378Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T11:50:54.381Z [[33mwarn[39m]: ⚠️ Port 5000 in use, trying 5001...
+2025-11-11T11:50:54.407Z [[32minfo[39m]: 🚀 Server running on port 5001
+2025-11-11T11:50:59.634Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T11:50:59.691Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T11:51:07.938Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T11:51:13.573Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T12:11:01.745Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T12:11:06.350Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T12:11:24.280Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-11T12:12:07.284Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T12:12:22.356Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T12:13:04.710Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T12:15:38.141Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T12:30:13.446Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T12:30:16.823Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T12:33:41.603Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T12:34:12.999Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T12:34:37.412Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-11T12:37:16.700Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T12:37:31.709Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T12:38:09.965Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T12:42:36.479Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T12:43:04.631Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T12:45:39.092Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T12:46:00.665Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T12:46:53.313Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T12:47:17.096Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T12:52:46.982Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T12:52:50.444Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T12:53:07.779Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T12:53:10.420Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T12:55:19.225Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T12:55:22.209Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T12:55:35.374Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T12:55:38.169Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T12:59:50.822Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T13:00:55.356Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T13:12:27.456Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T13:12:30.055Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T13:12:56.074Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T13:14:14.223Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T13:16:17.533Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T13:16:39.779Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T13:17:07.375Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T13:17:38.798Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T13:17:39.420Z [[31merror[39m]: ❌ Login failed: user.matchPassword is not a function
+2025-11-11T13:17:44.320Z [[31merror[39m]: ❌ Login failed: user.matchPassword is not a function
+2025-11-11T13:17:56.453Z [[31merror[39m]: ❌ Login failed: user.matchPassword is not a function
+2025-11-11T13:18:24.963Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T13:18:41.045Z [[31merror[39m]: ❌ Login failed: Operation `taskprojects.findOne()` buffering timed out after 10000ms
+2025-11-11T13:18:49.731Z [[31merror[39m]: ❌ Login failed: Operation `taskprojects.findOne()` buffering timed out after 10000ms
+2025-11-11T13:18:51.177Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T13:18:54.508Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T13:18:57.741Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T13:19:38.601Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T13:19:40.662Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T13:22:47.829Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T13:23:11.349Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T13:23:22.838Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T13:23:27.380Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T13:24:11.485Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T13:30:04.309Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T13:30:29.046Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T13:30:58.928Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T13:31:17.806Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T13:31:34.994Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T13:31:41.830Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T13:42:41.645Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T13:42:41.659Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T13:42:59.274Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T13:43:35.863Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T13:45:14.076Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T13:52:24.909Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T13:52:31.886Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T13:52:42.764Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T13:53:01.500Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T13:53:13.486Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T13:53:25.439Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T13:53:32.304Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T13:53:49.886Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T13:53:58.487Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T13:54:42.340Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T13:54:49.519Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T13:55:45.327Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T13:58:11.336Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T13:58:30.396Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T13:58:34.606Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T13:59:07.943Z [[31merror[39m]: ❌ MongoDB connection failed: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2025-11-11T14:00:54.904Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T14:01:12.626Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T14:01:33.207Z [[31merror[39m]: ❌ Login failed: Operation `taskprojects.findOne()` buffering timed out after 10000ms
+2025-11-11T14:01:34.148Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T14:01:35.112Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T14:01:48.992Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T14:02:08.065Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T14:02:09.526Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T14:02:42.463Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T14:04:06.894Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T14:04:11.626Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T14:04:27.045Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T14:04:58.890Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T14:12:13.225Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T14:12:28.848Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T14:12:34.557Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T14:17:02.419Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T14:17:08.869Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T14:17:19.549Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T14:17:56.229Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T14:17:56.246Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T14:21:02.052Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T14:21:04.561Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T14:21:38.135Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T14:22:42.778Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T14:27:08.178Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T14:32:37.468Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T14:32:40.379Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T14:33:10.653Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T14:34:30.243Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T14:34:34.280Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T14:34:37.006Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T14:34:42.600Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T14:34:47.714Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T14:35:44.287Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T14:35:46.095Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T14:37:33.246Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T14:37:36.046Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T14:38:59.931Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T14:39:22.782Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-11T14:39:23.859Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-11T14:39:32.242Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T15:35:06.397Z [[31merror[39m]: ❌ Login failed: getaddrinfo ENOTFOUND cluster0-shard-00-01.glb8k.mongodb.net
+2025-11-11T15:35:08.555Z [[31merror[39m]: ❌ Login failed: getaddrinfo ENOTFOUND cluster0-shard-00-01.glb8k.mongodb.net
+2025-11-11T15:35:11.141Z [[31merror[39m]: ❌ Login failed: getaddrinfo ENOTFOUND cluster0-shard-00-01.glb8k.mongodb.net
+2025-11-11T15:35:26.133Z [[31merror[39m]: ❌ Login failed: getaddrinfo ENOTFOUND cluster0-shard-00-01.glb8k.mongodb.net
+2025-11-11T15:35:34.972Z [[31merror[39m]: ❌ Login failed: getaddrinfo ENOTFOUND cluster0-shard-00-01.glb8k.mongodb.net
+2025-11-11T15:35:36.506Z [[31merror[39m]: ❌ Login failed: getaddrinfo ENOTFOUND cluster0-shard-00-01.glb8k.mongodb.net
+2025-11-11T15:35:36.510Z [[31merror[39m]: ❌ Login failed: getaddrinfo ENOTFOUND cluster0-shard-00-01.glb8k.mongodb.net
+2025-11-11T15:35:37.440Z [[31merror[39m]: ❌ Login failed: getaddrinfo ENOTFOUND cluster0-shard-00-01.glb8k.mongodb.net
+2025-11-11T15:35:37.773Z [[31merror[39m]: ❌ Login failed: getaddrinfo ENOTFOUND cluster0-shard-00-01.glb8k.mongodb.net
+2025-11-11T15:37:58.586Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T15:37:59.215Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T15:47:07.125Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T15:47:17.865Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T15:49:42.051Z [[33mwarn[39m]: ⚠️ Invalid login attempt for: admin@gmail.com
+2025-11-11T15:50:25.659Z [[31merror[39m]: ❌ Registration failed: Member validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T15:51:53.785Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T15:52:00.005Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T15:52:12.629Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-11T15:52:27.683Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-11T15:52:46.817Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T15:52:57.730Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T15:57:04.356Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T15:57:11.570Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T15:57:40.922Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T15:57:54.004Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T15:57:56.157Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T15:57:59.700Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T15:58:16.061Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-11T15:58:34.364Z [[33mwarn[39m]: ⚠️ Invalid login attempt for: member@gmail.com
+2025-11-11T15:59:09.102Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T15:59:42.913Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:00:28.946Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:00:29.947Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:00:33.174Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:00:36.157Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:00:38.596Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:00:43.831Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:00:45.580Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:00:45.726Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:00:46.084Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:00:46.843Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:00:55.907Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:01:44.555Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:01:45.170Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:01:46.406Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:01:47.666Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:02:31.249Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:02:37.085Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:03:21.565Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:03:49.577Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Member` is not a valid enum value for path `role`.
+2025-11-11T16:04:56.027Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Team Lead` is not a valid enum value for path `role`.
+2025-11-11T16:07:05.919Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T16:07:15.452Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T16:07:20.651Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T16:07:37.425Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T16:07:49.040Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T16:08:05.680Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T16:08:34.477Z [[31merror[39m]: ❌ Registration failed: Operation `taskprojects.findOne()` buffering timed out after 10000ms
+2025-11-11T16:09:05.992Z [[31merror[39m]: ❌ MongoDB connection failed: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2025-11-11T16:09:38.105Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T16:09:50.382Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T16:10:44.621Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T16:13:33.697Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T16:14:21.782Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T16:17:48.480Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Name is required
+2025-11-11T16:17:50.629Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Name is required
+2025-11-11T16:18:44.738Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Name is required
+2025-11-11T16:19:44.188Z [[31merror[39m]: ❌ Registration failed: connection 6 to 159.41.247.107:27017 timed out
+2025-11-11T16:19:44.321Z [[31merror[39m]: ❌ Registration failed: connection 6 to 159.41.247.107:27017 timed out
+2025-11-11T16:20:03.067Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Name is required
+2025-11-11T16:20:11.348Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Name is required
+2025-11-11T16:20:18.734Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Name is required
+2025-11-11T16:20:33.062Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Name is required
+2025-11-11T16:20:40.539Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Name is required
+2025-11-11T16:20:47.300Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Name is required
+2025-11-11T16:20:48.217Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Name is required
+2025-11-11T16:20:58.818Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T16:21:02.430Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T16:21:24.858Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T16:21:43.307Z [[31merror[39m]: ❌ Registration failed: taskprojects validation failed: name: Path `name` is required., role: `Team Lead` is not a valid enum value for path `role`.
+2025-11-11T16:37:26.866Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T16:37:35.229Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T16:38:32.709Z [[32minfo[39m]: 🟢 New user registered: member@gmail.com
+2025-11-11T16:38:48.082Z [[32minfo[39m]: ✅ Login success: member@gmail.com
+2025-11-11T16:39:39.721Z [[32minfo[39m]: 🟢 New user registered: gulbushra205@gmail.com
+2025-11-11T16:39:51.448Z [[33mwarn[39m]: ⚠️ Invalid login attempt for: gulbushra205@gmail.com
+2025-11-11T16:40:00.762Z [[32minfo[39m]: ✅ Login success: gulbushra205@gmail.com
+2025-11-11T16:44:47.512Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T16:44:59.264Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T16:54:08.979Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T16:54:12.075Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T16:54:21.641Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T16:54:24.669Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T16:54:42.177Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T16:54:46.238Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T16:54:50.060Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T16:54:53.920Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T16:55:21.551Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T16:55:26.879Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T16:55:31.259Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T16:55:35.086Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T16:55:54.713Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T16:55:58.151Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T16:56:11.107Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T16:56:13.730Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T16:59:23.968Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T16:59:30.702Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T16:59:55.030Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T16:59:59.879Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T17:00:07.332Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T17:00:10.756Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T17:02:56.619Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-11T17:14:15.368Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T17:14:19.395Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T17:20:53.400Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-11T17:21:23.209Z [[32minfo[39m]: ✅ Login success: gulbushra205@gmail.com
+2025-11-11T17:21:40.905Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-11T17:30:01.238Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T17:46:38.003Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T17:46:44.816Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T17:47:10.475Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-11T17:47:51.166Z [[32minfo[39m]: 🟢 New user registered: leader@gmail.com
+2025-11-11T17:48:05.355Z [[32minfo[39m]: ✅ Login success: leader@gmail.com
+2025-11-11T17:53:17.740Z [[32minfo[39m]: ✅ Login success: leader@gmail.com
+2025-11-11T17:55:36.927Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T17:56:06.309Z [[32minfo[39m]: ✅ Login success: gulbushra205@gmail.com
+2025-11-11T17:56:33.630Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T18:00:55.314Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T18:02:00.861Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T18:02:03.395Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T18:04:39.879Z [[32minfo[39m]: 🗑️ Task deleted: task1
+2025-11-11T18:04:45.039Z [[32minfo[39m]: 🗑️ Task deleted: task1
+2025-11-11T18:04:59.452Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T18:05:03.597Z [[32minfo[39m]: 🗑️ Task deleted: task1
+2025-11-11T18:05:09.947Z [[32minfo[39m]: 🗑️ Task deleted: task1
+2025-11-11T18:05:14.773Z [[32minfo[39m]: 🗑️ Task deleted: task1
+2025-11-11T18:05:18.687Z [[32minfo[39m]: 🗑️ Task deleted: task1
+2025-11-11T18:05:22.428Z [[32minfo[39m]: 🗑️ Task deleted: task1
+2025-11-11T18:05:26.757Z [[32minfo[39m]: 🗑️ Task deleted: task1
+2025-11-11T18:05:30.932Z [[32minfo[39m]: 🗑️ Task deleted: task1
+2025-11-11T18:05:37.828Z [[32minfo[39m]: 🗑️ Task deleted: task1
+2025-11-11T18:05:41.967Z [[32minfo[39m]: 🗑️ Task deleted: task1
+2025-11-11T18:05:46.134Z [[32minfo[39m]: 🗑️ Task deleted: task1
+2025-11-11T18:05:52.197Z [[32minfo[39m]: 🗑️ Task deleted: task5
+2025-11-11T18:06:00.193Z [[32minfo[39m]: 🗑️ Task deleted: task5
+2025-11-11T18:06:12.264Z [[32minfo[39m]: 🗑️ Task deleted: new
+2025-11-11T18:06:21.863Z [[32minfo[39m]: 🗑️ Task deleted: new
+2025-11-11T18:06:27.065Z [[32minfo[39m]: 🗑️ Task deleted: new
+2025-11-11T18:06:42.039Z [[33mwarn[39m]: ⚠️ Invalid login attempt for: leader@gmail.com
+2025-11-11T18:06:47.751Z [[32minfo[39m]: ✅ Login success: leader@gmail.com
+2025-11-11T18:07:32.293Z [[32minfo[39m]: 🟢 Task created: merntask
+2025-11-11T18:07:50.895Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T18:08:16.928Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T18:09:59.820Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T18:10:34.417Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T18:11:03.451Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T18:12:41.915Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T18:12:51.193Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T18:15:51.804Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-11T18:16:28.814Z [[32minfo[39m]: 🟢 Task created: task2
+2025-11-11T18:17:16.409Z [[32minfo[39m]: 🟢 Task created: node task 
+2025-11-11T18:17:36.278Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T18:17:48.944Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T18:19:00.782Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T18:19:06.077Z [[32minfo[39m]: 🗑️ Task deleted: task2
+2025-11-11T18:19:16.703Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T18:19:35.086Z [[32minfo[39m]: ✅ Login success: leader@gmail.com
+2025-11-11T18:24:39.977Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T18:24:42.715Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T18:27:58.158Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T18:30:27.538Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-11T18:30:37.542Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T18:31:09.113Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-11T18:31:13.205Z [[32minfo[39m]: 🗑️ Task deleted: node task 
+2025-11-11T18:31:21.527Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T18:31:33.101Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T18:33:45.589Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T18:33:58.223Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-11T18:36:56.927Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T18:36:59.211Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T18:37:06.662Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T18:37:08.571Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T18:37:25.648Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T18:37:29.315Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T18:37:33.976Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T18:37:38.589Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T18:38:05.652Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T18:38:07.406Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T18:38:16.787Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T18:38:19.508Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T18:40:45.836Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T18:40:47.484Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T18:43:53.445Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T18:52:32.250Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T18:52:34.529Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T18:52:50.438Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T18:52:52.190Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T18:53:15.531Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-11T18:53:17.769Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-11T19:04:45.678Z [[32minfo[39m]: ✅ Login success: member@gmail.com
+2025-11-11T19:06:00.475Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-11T19:06:43.503Z [[32minfo[39m]: 🟢 Task created: game task
+2025-11-11T19:06:56.058Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-11T19:07:13.806Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-11T19:11:11.071Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-11T19:11:53.352Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-12T10:33:21.151Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-12T10:33:23.868Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-12T10:34:00.987Z [[33mwarn[39m]: ⚠️ Invalid login attempt for: Ali@gmail.com
+2025-11-12T10:34:27.423Z [[32minfo[39m]: 🟢 New user registered: Ali@gmail.com
+2025-11-12T10:34:43.082Z [[32minfo[39m]: ✅ Login success: Ali@gmail.com
+2025-11-12T10:35:03.716Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-12T10:35:25.927Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-12T10:35:40.707Z [[32minfo[39m]: ✅ Login success: Ali@gmail.com
+2025-11-12T10:53:29.280Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-12T10:53:31.046Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-12T10:54:32.753Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-12T10:54:34.752Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-12T10:56:35.258Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-12T10:56:37.668Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-12T10:56:43.618Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-12T10:56:47.178Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-12T10:57:03.604Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-12T10:57:05.915Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-12T10:57:23.791Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-12T10:57:26.101Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-12T10:57:42.761Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-12T10:57:45.542Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-12T11:05:37.175Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-12T11:05:39.225Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-12T11:06:13.846Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-12T11:07:37.870Z [[32minfo[39m]: 🟢 Project created: CS PROJECT
+2025-11-12T11:07:54.130Z [[32minfo[39m]: ✅ Login success: Ali@gmail.com
+2025-11-12T11:11:52.700Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-12T11:11:59.414Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-12T11:12:11.669Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-12T11:12:15.252Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-12T11:12:35.350Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-12T11:12:39.517Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-12T11:12:49.936Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-12T11:12:51.849Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-12T11:13:23.065Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-12T11:13:26.518Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-12T11:13:51.791Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-12T11:14:26.990Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-12T11:14:31.542Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-12T11:15:19.489Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-12T11:21:02.675Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-12T11:21:07.869Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-12T11:21:36.553Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-12T11:21:56.979Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-12T11:23:03.931Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-12T11:24:57.932Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-12T11:28:37.463Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-12T11:35:27.522Z [[32minfo[39m]: ✅ Login success: Ali@gmail.com
+2025-11-12T11:35:42.115Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-12T11:36:07.923Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-12T11:36:25.739Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-12T11:42:46.187Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-12T11:44:09.691Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-12T11:58:53.991Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-12T11:58:57.666Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-12T11:59:23.842Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-12T11:59:26.319Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-12T11:59:46.685Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-12T12:01:23.798Z [[31merror[39m]: ❌ Task creation failed: Task validation failed: project: Path `project` is required.
+2025-11-12T12:01:26.945Z [[31merror[39m]: ❌ Task creation failed: Task validation failed: project: Path `project` is required.
+2025-11-12T12:01:30.356Z [[31merror[39m]: ❌ Task creation failed: Task validation failed: project: Path `project` is required.
+2025-11-12T12:01:31.231Z [[31merror[39m]: ❌ Task creation failed: Task validation failed: project: Path `project` is required.
+2025-11-12T12:01:31.446Z [[31merror[39m]: ❌ Task creation failed: Task validation failed: project: Path `project` is required.
+2025-11-12T12:01:31.979Z [[31merror[39m]: ❌ Task creation failed: Task validation failed: project: Path `project` is required.
+2025-11-12T12:01:32.236Z [[31merror[39m]: ❌ Task creation failed: Task validation failed: project: Path `project` is required.
+2025-11-12T12:01:34.928Z [[31merror[39m]: ❌ Task creation failed: Task validation failed: project: Path `project` is required.
+2025-11-12T12:07:11.623Z [[31merror[39m]: ❌ Task creation failed: Task validation failed: project: Path `project` is required.
+2025-11-12T12:13:46.374Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-12T12:13:48.729Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-12T12:14:00.941Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-12T12:14:02.559Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-12T12:14:32.536Z [[32minfo[39m]: 🟢 Task created: fgg
+2025-11-12T12:14:53.241Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-12T12:15:14.111Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-12T12:20:19.689Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-12T12:20:37.717Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-12T12:20:55.214Z [[32minfo[39m]: 🗑️ Task deleted: fgg
+2025-11-12T12:21:10.920Z [[32minfo[39m]: ✅ Login success: Ali@gmail.com
+2025-11-12T12:21:21.729Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-12T12:21:39.063Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-12T12:22:15.113Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-12T12:23:42.488Z [[32minfo[39m]: 🟢 Task created: function add task 
+2025-11-12T12:23:59.508Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-12T12:24:41.643Z [[32minfo[39m]: ✅ Login success: Ali@gmail.com
+2025-11-12T12:25:28.942Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-13T11:41:21.857Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-13T11:41:46.388Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-13T11:41:50.760Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-13T11:43:52.665Z [[32minfo[39m]: 🟢 New user registered: hifza@gmail.com
+2025-11-13T11:48:42.589Z [[32minfo[39m]: 🟢 New user registered: hifzagul@gmail.com
+2025-11-13T11:50:20.815Z [[32minfo[39m]: ✅ Login success: hifzagul@gmail.com
+2025-11-13T11:50:20.919Z [[32minfo[39m]: ✅ Login success: hifzagul@gmail.com
+2025-11-13T11:55:19.356Z [[32minfo[39m]: 🟢 New user registered: khan@gmail.com
+2025-11-13T12:02:05.919Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-13T12:02:28.377Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-13T12:02:52.466Z [[32minfo[39m]: 🟢 New user registered: alikahn@gmail.com
+2025-11-13T12:07:25.463Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-13T12:07:32.832Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-13T12:09:04.025Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-13T12:09:12.974Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-13T12:10:21.086Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-13T12:10:30.401Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-13T12:11:20.416Z [[32minfo[39m]: 🟢 New user registered: sherkhan@gmail.com
+2025-11-13T12:12:38.227Z [[32minfo[39m]: 🟢 New user registered: dd@gmail.com
+2025-11-13T12:12:38.356Z [[31merror[39m]: ❌ Registration failed: E11000 duplicate key error collection: test.taskprojects index: email_1 dup key: { email: "dd@gmail.com" }
+2025-11-13T12:13:17.048Z [[32minfo[39m]: 🟢 New user registered: cc@gmail.com
+2025-11-13T12:13:32.624Z [[32minfo[39m]: ✅ Login success: cc@gmail.com
+2025-11-13T12:14:59.001Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-13T12:27:04.947Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-13T12:27:20.806Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-13T12:27:43.216Z [[32minfo[39m]: ✅ Login success: cc@gmail.com
+2025-11-13T12:28:33.935Z [[32minfo[39m]: 🟢 New user registered: khankhan@gmail.com
+2025-11-13T12:28:53.254Z [[32minfo[39m]: ✅ Login success: khankhan@gmail.com
+2025-11-13T12:29:51.928Z [[32minfo[39m]: 🟢 New user registered: creator@gmail.com
+2025-11-13T12:30:31.473Z [[32minfo[39m]: ✅ Login success: creator@gmail.com
+2025-11-13T12:30:31.508Z [[32minfo[39m]: ✅ Login success: creator@gmail.com
+2025-11-13T12:30:33.384Z [[32minfo[39m]: ✅ Login success: creator@gmail.com
+2025-11-13T12:30:49.807Z [[31merror[39m]: ❌ Login failed: connection <monitor> to 159.41.247.107:27017 timed out
+2025-11-13T12:30:49.810Z [[31merror[39m]: ❌ Login failed: connection <monitor> to 159.41.247.107:27017 timed out
+2025-11-13T12:32:48.266Z [[32minfo[39m]: ✅ Login success: cc@gmail.com
+2025-11-13T12:32:49.705Z [[32minfo[39m]: ✅ Login success: cc@gmail.com
+2025-11-13T12:34:20.722Z [[32minfo[39m]: ✅ Login success: khankhan@gmail.com
+2025-11-13T13:31:53.730Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-13T13:32:38.170Z [[31merror[39m]: ❌ MongoDB connection failed: querySrv ETIMEOUT _mongodb._tcp.cluster0.glb8k.mongodb.net
+2025-11-13T13:40:57.763Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-13T13:41:07.987Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-13T13:42:22.014Z [[32minfo[39m]: 🟢 New user registered: hello@gmail.com
+2025-11-13T13:44:47.123Z [[33mwarn[39m]: ⚠️ Port 5000 in use, trying 5001...
+2025-11-13T13:44:47.135Z [[32minfo[39m]: 🚀 Server running on port 5001
+2025-11-13T14:07:39.482Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-13T14:08:09.842Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-13T14:09:52.614Z [[31merror[39m]: ❌ Registration failed: Socket 'secureConnect' timed out after 34037ms (connectTimeoutMS: 30000)
+2025-11-13T14:09:59.668Z [[31merror[39m]: ❌ Registration failed: Socket 'secureConnect' timed out after 34037ms (connectTimeoutMS: 30000)
+2025-11-14T07:40:10.992Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-14T07:40:27.899Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-14T07:42:23.505Z [[32minfo[39m]: 🟢 New user registered: gulbushra@gmail.com
+2025-11-14T07:43:41.743Z [[32minfo[39m]: 🟢 New user registered: gulbushr205@gmail.com
+2025-11-14T07:44:55.552Z [[32minfo[39m]: 🟢 New user registered: hafzagul07@gmail.com
+2025-11-14T07:47:06.763Z [[32minfo[39m]: ✅ Login success: hafzagul07@gmail.com
+2025-11-14T07:51:23.600Z [[32minfo[39m]: 🟢 New user registered: ksher3205@gmail.com
+2025-11-14T07:54:57.753Z [[32minfo[39m]: 🟢 New user registered: gulbushra101@gmail.com
+2025-11-14T07:57:31.256Z [[32minfo[39m]: ✅ Login success: hafzagul07@gmail.com
+2025-11-14T08:04:11.889Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-14T08:04:18.152Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-14T08:05:17.113Z [[32minfo[39m]: 🟢 New user registered: samragul02@gmail.com
+2025-11-14T09:01:54.899Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-14T09:01:59.767Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-14T09:02:02.734Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-14T09:02:50.749Z [[32minfo[39m]: 🟢 New user registered: gulbushra20@gmail.com
+2025-11-14T09:04:23.876Z [[32minfo[39m]: 🟢 New user registered: swatisherkhan1@gmail.com
+2025-11-17T09:47:52.438Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-17T09:47:59.833Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-17T09:57:24.018Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-17T10:01:42.768Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-17T10:01:47.972Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-17T10:05:01.443Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-17T10:05:01.742Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-17T10:05:01.855Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-17T10:05:40.748Z [[32minfo[39m]: 🟢 Task created: socket
+2025-11-17T10:06:01.141Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-17T10:15:56.003Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-17T10:16:05.081Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-17T10:28:37.643Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-17T10:28:43.836Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-17T10:29:16.915Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-17T10:29:34.394Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-17T10:29:53.679Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-17T10:30:17.518Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-17T10:30:39.066Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-17T10:31:46.497Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-17T10:31:53.013Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-17T10:32:30.757Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-17T10:32:30.916Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-17T10:32:35.433Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-17T10:32:36.114Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-17T10:32:36.508Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-17T10:32:37.252Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-17T10:32:37.372Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-17T10:32:37.474Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-17T10:32:39.253Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-17T10:32:41.291Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-17T10:32:41.512Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-17T10:32:56.839Z [[32minfo[39m]: 🗑️ Task deleted: function add task 
+2025-11-17T10:33:56.424Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-17T10:40:32.946Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-17T10:45:25.110Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-17T10:45:34.158Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-17T10:47:38.860Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-17T10:47:49.458Z [[32minfo[39m]: 🗑️ Task deleted: socket
+2025-11-17T10:48:26.641Z [[32minfo[39m]: 🟢 Task created: new socket
+2025-11-17T10:50:24.535Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-17T11:04:12.822Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-17T11:08:05.425Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-17T11:08:10.940Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-17T11:09:52.044Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-17T11:09:52.064Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-17T11:10:40.095Z [[32minfo[39m]: 🟢 Task created: 111
+2025-11-17T11:12:29.069Z [[31merror[39m]: ❌ Login failed: getaddrinfo ENOTFOUND cluster0-shard-00-01.glb8k.mongodb.net
+2025-11-17T11:12:29.691Z [[31merror[39m]: ❌ Login failed: getaddrinfo ENOTFOUND cluster0-shard-00-01.glb8k.mongodb.net
+2025-11-17T11:12:29.709Z [[31merror[39m]: ❌ Login failed: getaddrinfo ENOTFOUND cluster0-shard-00-01.glb8k.mongodb.net
+2025-11-17T11:12:46.500Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-17T11:12:47.306Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-17T11:12:48.523Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-17T11:12:49.137Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-17T11:13:07.145Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-17T12:34:18.086Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-17T12:34:30.384Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-17T12:34:52.895Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-17T12:34:59.581Z [[32minfo[39m]: 🗑️ Task deleted: javascript
+2025-11-17T12:35:24.133Z [[32minfo[39m]: 🟢 Task created: abc
+2025-11-17T12:35:53.377Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-17T12:56:28.429Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-17T12:56:32.020Z [[32minfo[39m]: 🗑️ Task deleted: new socket
+2025-11-17T12:57:01.036Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-17T12:57:35.205Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-17T12:57:40.895Z [[32minfo[39m]: 🗑️ Task deleted: 111
+2025-11-17T12:57:45.993Z [[32minfo[39m]: 🗑️ Task deleted: abc
+2025-11-17T12:58:26.602Z [[32minfo[39m]: 🟢 Task created: socket.io
+2025-11-17T12:58:59.942Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-17T13:01:34.423Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-17T13:01:46.783Z [[32minfo[39m]: 🗑️ Task deleted: socket.io
+2025-11-17T13:02:36.551Z [[32minfo[39m]: 🟢 Task created: socket.io
+2025-11-17T13:02:53.049Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-17T13:07:45.334Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-17T13:08:12.993Z [[32minfo[39m]: 🟢 Task created: LABEL TASK
+2025-11-17T13:08:28.547Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-17T13:15:19.163Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-17T13:15:28.821Z [[32minfo[39m]: 🗑️ Task deleted: socket.io
+2025-11-17T13:15:53.798Z [[32minfo[39m]: 🟢 Task created: label
+2025-11-17T13:16:08.108Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-17T13:18:21.002Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-17T13:18:45.243Z [[32minfo[39m]: 🟢 Task created: no working
+2025-11-17T13:18:54.045Z [[32minfo[39m]: 🗑️ Task deleted: LABEL TASK
+2025-11-17T13:19:02.530Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-17T13:21:56.411Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-17T13:22:03.758Z [[32minfo[39m]: 🗑️ Task deleted: no working
+2025-11-17T13:22:39.289Z [[32minfo[39m]: 🟢 Task created: new task
+2025-11-17T13:22:41.492Z [[32minfo[39m]: 🟢 Task created: new task
+2025-11-17T13:22:52.717Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-17T13:22:53.251Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-17T13:25:38.498Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-17T13:25:38.642Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-17T13:25:44.807Z [[32minfo[39m]: 🗑️ Task deleted: new task
+2025-11-17T13:25:52.014Z [[32minfo[39m]: 🗑️ Task deleted: label
+2025-11-17T13:26:13.425Z [[32minfo[39m]: 🟢 Task created: acha
+2025-11-17T13:26:27.401Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-17T14:27:17.189Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-17T14:50:30.966Z [[32minfo[39m]: ✅ Login success: hafzagul07@gmail.com
+2025-11-17T14:50:31.421Z [[32minfo[39m]: ✅ Login success: hafzagul07@gmail.com
+2025-11-17T14:50:31.424Z [[32minfo[39m]: ✅ Login success: hafzagul07@gmail.com
+2025-11-17T14:50:34.196Z [[32minfo[39m]: ✅ Login success: hafzagul07@gmail.com
+2025-11-17T14:50:35.416Z [[32minfo[39m]: ✅ Login success: hafzagul07@gmail.com
+2025-11-17T14:57:54.113Z [[32minfo[39m]: 🟢 New user registered: gulbushra939@gmail.com
+2025-11-17T14:58:28.714Z [[32minfo[39m]: ✅ Login success: gulbushra939@gmail.com
+2025-11-17T14:59:57.855Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-17T15:01:03.810Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-17T15:08:08.937Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-17T15:13:50.112Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-17T15:14:18.966Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-17T15:16:31.090Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-17T15:17:22.351Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-17T15:17:47.247Z [[32minfo[39m]: 🟢 Task created: project
+2025-11-17T15:18:06.168Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-17T15:18:32.256Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-18T09:30:58.815Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-18T09:31:18.461Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-18T09:31:37.412Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-18T09:33:19.282Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-18T09:39:11.414Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-18T09:39:51.410Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-18T09:58:20.482Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-18T10:01:41.216Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-18T10:05:12.916Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-18T10:06:08.171Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-18T10:10:19.196Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-18T10:11:27.647Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-18T10:14:46.737Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-18T10:15:57.756Z [[32minfo[39m]: 🟢 Task created: Software Task
+2025-11-18T10:17:01.451Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-18T10:18:27.859Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-18T10:19:48.812Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-18T10:20:07.493Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-18T10:20:31.733Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-18T10:22:55.425Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-18T10:27:22.899Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-18T10:37:34.306Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-18T10:38:40.554Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-18T10:44:12.294Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-18T10:44:40.308Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-18T10:44:53.463Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-18T10:45:56.491Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-18T10:46:22.668Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-18T10:49:02.598Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-18T10:54:23.022Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-18T10:54:40.340Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-18T10:55:02.638Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-18T10:55:33.239Z [[32minfo[39m]: 🟢 New user registered: omar23@gmail.com
+2025-11-18T10:55:46.056Z [[32minfo[39m]: ✅ Login success: omar23@gmail.com
+2025-11-18T10:57:27.059Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-18T10:57:32.996Z [[32minfo[39m]: 🗑️ Task deleted: acha ACHA ACHA 
+2025-11-18T10:57:47.009Z [[33mwarn[39m]: ⚠️ Invalid login attempt for: manager@gmail.com
+2025-11-18T10:57:54.029Z [[33mwarn[39m]: ⚠️ Invalid login attempt for: manager@gmail.com
+2025-11-18T10:58:00.471Z [[33mwarn[39m]: ⚠️ Invalid login attempt for: manager@gmail.com
+2025-11-18T10:58:08.701Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-18T10:58:16.669Z [[32minfo[39m]: 🗑️ Task deleted: project
+2025-11-18T10:59:12.510Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-20T10:15:08.066Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-20T10:15:16.004Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-20T10:16:33.868Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-20T10:17:34.447Z [[32minfo[39m]: 🟢 Task created: hell new task
+2025-11-20T10:18:30.860Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-20T10:27:18.353Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-20T10:27:21.727Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-20T10:29:54.352Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-20T10:38:29.322Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-20T10:43:28.969Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-20T10:45:53.131Z [[32minfo[39m]: 🟢 Task created: New Styling Task
+2025-11-20T10:46:27.231Z [[32minfo[39m]: 🗑️ Task deleted: new task
+2025-11-20T10:46:43.511Z [[32minfo[39m]: 🗑️ Task deleted: game task
+2025-11-20T10:47:12.162Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-20T10:48:13.020Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-20T10:56:46.734Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-20T10:57:25.917Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-20T11:06:08.714Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-20T11:06:38.323Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-20T11:07:17.269Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-20T11:08:17.244Z [[32minfo[39m]: 🟢 New user registered: hani22@gmail.com
+2025-11-20T11:09:12.623Z [[33mwarn[39m]: ⚠️ Invalid login attempt for: hani22@gmail.com
+2025-11-20T11:09:22.618Z [[32minfo[39m]: ✅ Login success: hani22@gmail.com
+2025-11-20T11:10:17.554Z [[32minfo[39m]: 🟢 New user registered: helohdh@gmail.com
+2025-11-20T11:16:49.867Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-20T11:16:55.304Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-20T11:17:15.127Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-20T11:17:49.314Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-20T11:18:43.588Z [[32minfo[39m]: 🟢 Task created: Task One 
+2025-11-20T11:19:04.021Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-20T11:19:36.784Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-24T09:03:46.606Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-24T09:03:46.637Z [[31merror[39m]: ❌ MongoDB connection failed: querySrv ECONNREFUSED _mongodb._tcp.cluster0.glb8k.mongodb.net
+2025-11-24T09:05:37.801Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-24T09:05:40.275Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-24T09:25:57.385Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-24T09:25:59.466Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-24T09:35:58.255Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-24T09:35:58.265Z [[31merror[39m]: ❌ MongoDB connection failed: querySrv EREFUSED _mongodb._tcp.cluster0.glb8k.mongodb.net
+2025-11-24T09:38:25.854Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-24T09:38:29.920Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-24T11:11:28.428Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-24T11:11:30.773Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-24T11:12:29.055Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-24T11:12:30.775Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-24T11:14:16.946Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-24T11:14:19.211Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-24T11:44:46.882Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-25T10:34:39.304Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-25T10:34:43.298Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-25T10:35:07.054Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-25T10:35:29.188Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-25T10:39:18.699Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-25T10:39:20.423Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-25T14:07:34.203Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-25T14:07:36.544Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-25T14:09:10.327Z [[32minfo[39m]: 🟢 New user registered: khan22@gmail.com
+2025-11-25T14:09:36.993Z [[32minfo[39m]: ✅ Login success: khan22@gmail.com
+2025-11-25T14:10:24.106Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-11-25T14:10:28.951Z [[32minfo[39m]: 🗑️ Task deleted: hello
+2025-11-25T14:10:30.992Z [[32minfo[39m]: 🗑️ Task deleted: hello
+2025-11-25T14:10:35.709Z [[32minfo[39m]: 🗑️ Task deleted: Deployment
+2025-11-25T14:10:36.713Z [[32minfo[39m]: 🗑️ Task deleted: Working good
+2025-11-25T14:10:53.984Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
