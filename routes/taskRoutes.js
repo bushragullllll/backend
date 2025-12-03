@@ -13,17 +13,17 @@ const router = express.Router();
 
 // All users can create tasks
 router.route('/')
-  .get(protect, authorizeRoles('Member', 'TeamLead', 'Admin'), getTasks)  
-  .post(protect, authorizeRoles('Member', 'TeamLead', 'Admin'), createTask);
+  .get(protect, authorizeRoles('Member', 'Team Lead', 'Admin'), getTasks)  
+  .post(protect, authorizeRoles('Member', 'Team Lead', 'Admin'), createTask);
 
 // Update task: only Admin
 router.route('/:id')
   .put(protect, authorizeRoles('Admin'), updateTask) 
-  .delete(protect, authorizeRoles('TeamLead'), deleteTask); // only TeamLead can delete
+  .delete(protect, authorizeRoles('Team Lead'), deleteTask); // only TeamLead can delete
 
 // Specific user's tasks
 router.route('/my-tasks/:userName')
-  .get(protect, authorizeRoles('Member', 'TeamLead', 'Admin'), getTasksByUser);
+  .get(protect, authorizeRoles('Member', 'Team Lead', 'Admin'), getTasksByUser);
 
 export default router;
 
