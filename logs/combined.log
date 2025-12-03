@@ -930,3 +930,13 @@
 2025-12-03T12:10:03.008Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
 2025-12-03T12:18:26.217Z [[32minfo[39m]: 🟢 New user registered: one@gmail.com
 2025-12-03T12:18:56.401Z [[32minfo[39m]: ✅ Login success: one@gmail.com
+2025-12-03T12:53:12.220Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-03T12:53:14.117Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-03T12:53:56.841Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-12-03T13:02:10.721Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-03T13:02:15.771Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-03T13:02:20.506Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-03T13:02:22.119Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-03T13:04:52.001Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-03T13:04:54.137Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-03T13:05:58.879Z [[32minfo[39m]: 🚀 Server running on port 5000

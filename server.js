@@ -27,7 +27,7 @@ const app = express();
 app.use(cors({
  origin: ["https://frontend-production-ff46.up.railway.app"], 
  // Updated frontend URL
-  // origin: "http://localhost:5173", // old localhost URL (commented)
+ 
   credentials: true,
 }));
 
@@ -56,7 +56,7 @@ const io = initSocket(
     cors: {
     origin: ["https://frontend-production-ff46.up.railway.app"], 
  // Updated frontend URL
-     //origin: "http://localhost:5173", // old localhost URL (commented)
+     
       methods: ["GET", "POST", "PUT", "DELETE"],
     },
   })
