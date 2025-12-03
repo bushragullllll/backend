@@ -21,13 +21,12 @@ export const registerUser = async (req, res) => {
     // ✅ Generate token once
     const token = generateToken(user.id, user.role);
 
-    // ✅ Set cookie
-    res.cookie("token", token, {
-      httpOnly: false, // visible in DevTools
-      secure: process.env.NODE_ENV === "production", // true on Railway
-      sameSite: "lax",
-      maxAge: 7 * 24 * 60 * 60 * 1000, // 7 days
-    });
+   res.cookie("token", token, {
+  httpOnly: false,       // DevTools visibility
+  secure: true,           // HTTPS required for cross-origin
+  sameSite: "none",       // Must be "none" for frontend-backend on different domains
+  maxAge: 7 * 24 * 60 * 60 * 1000, // 7 days
+});
 
     // ✅ Send response
     res.status(201).json({
@@ -54,12 +53,12 @@ export const loginUser = async (req, res) => {
 
       const token = generateToken(user.id, user.role);
 
-      res.cookie("token", token, {
-        httpOnly: false,
-        secure: process.env.NODE_ENV === "production",
-        sameSite: "lax",
-        maxAge: 7 * 24 * 60 * 60 * 1000,
-      });
+    res.cookie("token", token, {
+  httpOnly: false,       // DevTools visibility
+  secure: true,           // HTTPS required for cross-origin
+  sameSite: "none",       // Must be "none" for frontend-backend on different domains
+  maxAge: 7 * 24 * 60 * 60 * 1000, // 7 days
+});
 
       res.json({
         _id: user.id,
