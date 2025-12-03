@@ -12,6 +12,7 @@ import projectRoutes from "./routes/projectRoutes.js";
 import userRoutes from './routes/userRoutes.js';
 
 import logger from './config/logger.js';
+import cookieParser from "cookie-parser";
 
 dotenv.config();
 
@@ -26,11 +27,12 @@ const app = express();
 app.use(cors({
  origin: ["https://frontend-production-ff46.up.railway.app"], 
  // Updated frontend URL
-   //origin: "http://localhost:5173", // old localhost URL (commented)
+  // origin: "http://localhost:5173", // old localhost URL (commented)
   credentials: true,
 }));
 
 app.use(express.json());
+app.use(cookieParser());
 
 // Logs folder
 const logsDir = path.join(__dirname, 'logs');
@@ -52,9 +54,9 @@ const server = http.createServer(app);
 const io = initSocket(
   new Server(server, {
     cors: {
-     origin: ["https://frontend-production-ff46.up.railway.app"], 
+    origin: ["https://frontend-production-ff46.up.railway.app"], 
  // Updated frontend URL
-     // origin: "http://localhost:5173", // old localhost URL (commented)
+     //origin: "http://localhost:5173", // old localhost URL (commented)
       methods: ["GET", "POST", "PUT", "DELETE"],
     },
   })

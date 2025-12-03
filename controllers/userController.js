@@ -5,6 +5,8 @@ import { sendWelcomeEmail } from '../utils/sendEmial.js'; // ✅ added
 const generateToken = (id, role) =>
   jwt.sign({ id, role }, process.env.JWT_SECRET, { expiresIn: '7d' });
 
+
+// REGISTER
 export const registerUser = async (req, res) => {
   try {
     const { name, email, password, role } = req.body;
@@ -14,17 +16,26 @@ export const registerUser = async (req, res) => {
     const user = await User.create({ name, email, password, role });
     logger.info(`🟢 New user registered: ${email}`);
 
-    // Send welcome email (persistent transporter ensures first-try success)
-    sendWelcomeEmail(email, name); // no await needed for fast response
+    sendWelcomeEmail(email, name); // optional await
 
-    // Auto-login: generate token and send response
+    // ✅ Generate token once
     const token = generateToken(user.id, user.role);
+
+    // ✅ Set cookie
+    res.cookie("token", token, {
+      httpOnly: false, // visible in DevTools
+      secure: process.env.NODE_ENV === "production", // true on Railway
+      sameSite: "lax",
+      maxAge: 7 * 24 * 60 * 60 * 1000, // 7 days
+    });
+
+    // ✅ Send response
     res.status(201).json({
       _id: user.id,
       name: user.name,
       email: user.email,
       role: user.role,
-      token,
+      token, // use the same token
     });
   } catch (error) {
     logger.error(`❌ Registration failed: ${error.message}`);
@@ -32,6 +43,7 @@ export const registerUser = async (req, res) => {
   }
 };
 
+// LOGIN
 export const loginUser = async (req, res) => {
   try {
     const { email, password } = req.body;
@@ -39,12 +51,22 @@ export const loginUser = async (req, res) => {
 
     if (user && await user.matchPassword(password)) {
       logger.info(`✅ Login success: ${email}`);
+
+      const token = generateToken(user.id, user.role);
+
+      res.cookie("token", token, {
+        httpOnly: false,
+        secure: process.env.NODE_ENV === "production",
+        sameSite: "lax",
+        maxAge: 7 * 24 * 60 * 60 * 1000,
+      });
+
       res.json({
         _id: user.id,
         name: user.name,
         email: user.email,
         role: user.role,
-        token: generateToken(user.id, user.role),
+        token, // use the same token
       });
     } else {
       logger.warn(`⚠️ Invalid login attempt for: ${email}`);
@@ -55,6 +77,7 @@ export const loginUser = async (req, res) => {
     res.status(500).json({ message: 'Server error' });
   }
 };
+
 
 // Get all members
 export const getMembers = async (req, res) => {

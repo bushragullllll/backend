@@ -6,20 +6,21 @@ import {
   deleteProject,
   updateProject,
 } from "../controllers/projectController.js";
+import { protect, authorizeRoles } from "../middleware/authMiddleware.js";
+
 
 const router = express.Router();
 
-// ✅ Create new project with file
-router.post("/", upload.single("file"), createProject);
+// Member: view only
+router.get("/", protect, authorizeRoles('Member', 'TeamLead', 'Admin'), getProjects);
 
-// ✅ Get all projects
-router.get("/", getProjects);
+// Create project: TeamLead & Admin
+router.post("/", protect, authorizeRoles('TeamLead', 'Admin'), upload.single("file"), createProject);
 
-// ✅ Update project
-router.put("/:id", upload.single("file"), updateProject);
+// Update project: Admin only
+router.put("/:id", protect, authorizeRoles('Admin'), upload.single("file"), updateProject);
 
-// ✅ Delete project
-router.delete("/:id", deleteProject);
+// Delete project: TeamLead only
+router.delete("/:id", protect, authorizeRoles('TeamLead'), deleteProject);
 
 export default router;
-

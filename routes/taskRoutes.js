@@ -4,25 +4,26 @@ import {
   createTask,
   deleteTask,
   getTasksByUser,
-   updateTask,
+  updateTask,
 } from '../controllers/taskController.js';
-import { protect } from '../middleware/authMiddleware.js';
+import { protect,authorizeRoles } from '../middleware/authMiddleware.js';
+
 
 const router = express.Router();
 
+// All users can create tasks
 router.route('/')
-  .get(protect, getTasks)       // GET all tasks
-  .post(protect, createTask);   // Create task
+  .get(protect, authorizeRoles('Member', 'TeamLead', 'Admin'), getTasks)  
+  .post(protect, authorizeRoles('Member', 'TeamLead', 'Admin'), createTask);
 
+// Update task: only Admin
 router.route('/:id')
-  .delete(protect, deleteTask); // Delete task by id
+  .put(protect, authorizeRoles('Admin'), updateTask) 
+  .delete(protect, authorizeRoles('TeamLead'), deleteTask); // only TeamLead can delete
 
+// Specific user's tasks
 router.route('/my-tasks/:userName')
-  .get(protect, getTasksByUser); // GET tasks for specific user by name
-
-router.route('/:id')
-  .put(protect, updateTask)   // Update task
-  .delete(protect, deleteTask);
-
+  .get(protect, authorizeRoles('Member', 'TeamLead', 'Admin'), getTasksByUser);
 
 export default router;
+

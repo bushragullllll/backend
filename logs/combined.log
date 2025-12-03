@@ -706,3 +706,227 @@
 2025-11-25T14:10:35.709Z [[32minfo[39m]: 🗑️ Task deleted: Deployment
 2025-11-25T14:10:36.713Z [[32minfo[39m]: 🗑️ Task deleted: Working good
 2025-11-25T14:10:53.984Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-26T08:48:19.756Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-26T08:48:22.754Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-26T09:25:33.243Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-26T09:25:36.438Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-26T09:50:28.523Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-26T09:50:31.423Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-26T09:50:33.986Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-26T09:50:43.772Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-26T09:50:45.192Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-26T10:01:17.039Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-26T10:01:20.499Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-26T10:01:22.420Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-26T10:01:26.550Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-26T10:01:28.159Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-26T10:01:38.176Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-26T10:01:43.000Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-26T10:01:44.661Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-26T10:20:26.893Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-26T10:20:28.777Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-26T10:21:22.787Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-26T10:21:26.917Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-26T10:21:28.635Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-26T10:21:55.116Z [[32minfo[39m]: 🟢 New user registered: name@gmail.com
+2025-11-26T10:22:42.400Z [[32minfo[39m]: ✅ Login success: name@gmail.com
+2025-11-26T10:24:00.907Z [[32minfo[39m]: 🟢 New user registered: manager22@gmail.com
+2025-11-26T10:24:32.626Z [[32minfo[39m]: ✅ Login success: manager22@gmail.com
+2025-11-26T10:25:21.606Z [[32minfo[39m]: 🟢 Task created: JavaScript Task
+2025-11-26T10:25:38.702Z [[32minfo[39m]: 🗑️ Task deleted: Software Task
+2025-11-26T10:26:41.533Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-11-26T10:27:28.373Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-26T10:31:10.985Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-26T10:33:51.793Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-26T10:33:55.832Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-26T10:34:10.895Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-26T10:34:12.787Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-26T10:35:36.719Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-26T10:41:11.683Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-26T10:41:13.499Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-26T10:41:23.714Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-26T10:43:09.667Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-11-26T10:43:11.380Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-11-26T10:44:49.784Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-26T10:51:11.371Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-11-26T11:04:02.602Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-02T10:14:33.049Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-02T10:14:35.795Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-02T10:14:56.989Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-12-02T10:16:56.495Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-12-02T10:17:19.867Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-12-02T10:17:32.762Z [[33mwarn[39m]: ⚠️ Invalid login attempt for: gulbushra205@gmail.com
+2025-12-02T10:17:44.682Z [[32minfo[39m]: ✅ Login success: gulbushra205@gmail.com
+2025-12-02T10:22:28.936Z [[32minfo[39m]: 🟢 New user registered: gulbushra200@gmail.com
+2025-12-02T10:23:10.107Z [[33mwarn[39m]: ⚠️ Invalid login attempt for: gulbushra200@gmai.com
+2025-12-02T10:23:19.936Z [[33mwarn[39m]: ⚠️ Invalid login attempt for: gulbushra200@gmai.com
+2025-12-02T10:23:48.608Z [[32minfo[39m]: 🟢 New user registered: bush@gmail.com
+2025-12-02T10:24:02.631Z [[32minfo[39m]: ✅ Login success: bush@gmail.com
+2025-12-02T10:39:15.905Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-02T10:39:18.431Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-02T10:39:37.385Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-02T10:39:39.219Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-02T10:43:42.766Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-02T10:43:44.757Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-02T10:44:04.056Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-02T10:44:06.277Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-02T10:44:39.186Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-02T10:44:41.948Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-02T10:45:30.410Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-02T10:45:32.645Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-02T10:45:54.696Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-02T10:45:57.012Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-02T10:53:21.987Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-02T10:54:14.322Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-02T10:54:16.450Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-02T11:11:07.840Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-02T11:11:10.253Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-02T11:12:12.501Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-02T11:12:14.987Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-02T11:22:45.032Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-02T11:22:47.724Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-02T11:23:29.492Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-02T11:23:31.656Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-02T11:39:05.734Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-02T11:39:07.704Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-02T11:51:56.169Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-02T11:51:58.985Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-02T11:55:11.737Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-02T11:55:14.568Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-02T11:55:35.396Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-12-02T11:55:50.351Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-12-02T11:56:53.979Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-12-02T11:57:15.421Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-12-02T12:09:21.880Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-02T12:09:24.376Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-02T12:10:09.478Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-02T12:10:11.118Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-02T12:10:25.474Z [[32minfo[39m]: ✅ Login success: bush@gmail.com
+2025-12-02T12:10:47.025Z [[33mwarn[39m]: ⚠️ Invalid login attempt for: bush@gmail.com
+2025-12-02T12:10:57.100Z [[32minfo[39m]: ✅ Login success: bush@gmail.com
+2025-12-02T12:14:34.821Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-03T10:03:53.226Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-03T10:03:55.678Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-03T10:04:17.951Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-12-03T10:04:30.372Z [[32minfo[39m]: 🗑️ Task deleted: test
+2025-12-03T10:06:31.946Z [[32minfo[39m]: 🟢 Task created: Authorizatio Task
+2025-12-03T10:06:49.334Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-12-03T10:07:14.270Z [[32minfo[39m]: ✅ Login success: bush@gmail.com
+2025-12-03T10:13:14.188Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-03T10:13:16.368Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-03T10:13:34.080Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-03T10:13:35.622Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-03T10:13:58.059Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-12-03T10:14:32.658Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-12-03T10:14:59.697Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-03T10:15:01.326Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-03T10:15:23.323Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-12-03T10:16:04.157Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-12-03T10:17:04.293Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-12-03T10:17:38.301Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-12-03T10:18:10.069Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-03T10:18:12.044Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-03T10:18:17.056Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-12-03T10:18:44.747Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-03T10:18:46.522Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-03T10:19:20.660Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-03T10:19:29.610Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-03T10:28:38.157Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-12-03T10:35:44.328Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-03T10:35:46.149Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-03T10:35:58.946Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-03T10:36:00.412Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-03T10:36:07.705Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-12-03T10:36:23.840Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-12-03T10:39:27.157Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-12-03T10:39:42.146Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-12-03T10:44:04.071Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-12-03T10:44:18.294Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-12-03T10:44:40.395Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-12-03T10:45:18.268Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-12-03T10:45:36.559Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-12-03T10:46:07.912Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-12-03T10:50:53.210Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-12-03T10:51:24.659Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-12-03T10:51:40.777Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-12-03T11:05:04.834Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-12-03T11:05:31.398Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-12-03T11:08:23.311Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-12-03T11:08:43.080Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-12-03T11:10:58.587Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-12-03T11:11:35.018Z [[32minfo[39m]: ✅ Login success: bush@gmail.com
+2025-12-03T11:11:51.870Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-12-03T11:13:26.842Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-12-03T11:15:17.813Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-12-03T11:15:36.344Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-12-03T11:16:03.482Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-12-03T11:16:51.577Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-03T11:16:53.970Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-03T11:16:55.395Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-12-03T11:23:51.114Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-03T11:23:52.960Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-03T11:24:01.300Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-12-03T11:24:26.402Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-03T11:24:27.959Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-03T11:24:38.120Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-12-03T11:30:56.946Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-03T11:30:59.638Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-03T11:31:16.808Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-03T11:31:18.470Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-03T11:31:30.311Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-12-03T11:31:30.311Z [[31merror[39m]: ❌ Login failed: token is not defined
+2025-12-03T11:31:49.885Z [[32minfo[39m]: ✅ Login success: bush@gmail.com
+2025-12-03T11:31:49.886Z [[31merror[39m]: ❌ Login failed: token is not defined
+2025-12-03T11:32:40.682Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-03T11:32:42.672Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-03T11:32:48.519Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-12-03T11:33:00.148Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-12-03T11:35:41.585Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-12-03T11:36:11.740Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-03T11:36:15.107Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-03T11:36:20.780Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-03T11:38:02.137Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-03T11:38:03.963Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-03T11:38:11.213Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-03T11:38:12.859Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-03T11:41:07.240Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-03T11:41:09.067Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-03T11:41:19.176Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-12-03T11:50:04.890Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-03T11:50:06.971Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-03T11:51:30.503Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-03T11:51:32.479Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-03T11:52:35.231Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-03T11:52:42.660Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-03T11:53:30.807Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-03T11:53:32.378Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-03T11:53:45.998Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-12-03T11:54:13.879Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-12-03T11:54:40.643Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-03T11:54:42.178Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-03T11:54:49.341Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-03T11:54:50.813Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-03T11:57:13.840Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-03T11:57:15.775Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-03T11:58:13.572Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-03T11:58:16.029Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-03T11:58:25.453Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-12-03T11:58:37.820Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-12-03T11:58:47.068Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-12-03T11:59:14.516Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-12-03T11:59:25.268Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-12-03T11:59:36.512Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-12-03T12:06:57.701Z [[32minfo[39m]: 🚀 Server running on port 5000
+2025-12-03T12:07:01.420Z [[32minfo[39m]: ✅ MongoDB connected successfully
+2025-12-03T12:07:07.941Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-12-03T12:07:18.334Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-12-03T12:07:29.730Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-12-03T12:07:39.933Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-12-03T12:08:02.436Z [[32minfo[39m]: 🟢 Task created: bdbnd
+2025-12-03T12:08:38.818Z [[32minfo[39m]: ✅ Login success: admin@gmail.com
+2025-12-03T12:09:15.916Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-12-03T12:09:38.612Z [[32minfo[39m]: ✅ Login success: manager@gmail.com
+2025-12-03T12:09:42.894Z [[32minfo[39m]: 🗑️ Task deleted: 0000000
+2025-12-03T12:10:03.008Z [[32minfo[39m]: ✅ Login success: abc@gmail.com
+2025-12-03T12:18:26.217Z [[32minfo[39m]: 🟢 New user registered: one@gmail.com
+2025-12-03T12:18:56.401Z [[32minfo[39m]: ✅ Login success: one@gmail.com
